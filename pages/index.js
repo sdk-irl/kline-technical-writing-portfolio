@@ -5,13 +5,13 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Kline Technical Writing Portfolio</title>
+        <title>Susanna Kline | Technical Writer</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
         <h1 className={styles.title}>
-          Kline Technical Writing Portfolio
+          Susanna Kline
         </h1>
 
         <div className={styles.grid}>
@@ -19,7 +19,10 @@ export default function Home() {
             <h3>Portfolio &rarr;</h3>
             <p>Reference, feature overview, API integration, tutorial</p>
           </a>
-
+          <a href="/susannakline-resume-071023.pdf" className={styles.card}>
+            <h3>Resume &rarr;</h3>
+            <p>Technical writing and software development</p>
+          </a>
         </div>
       </main>
 

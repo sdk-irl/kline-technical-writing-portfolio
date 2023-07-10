@@ -1,1 +1,1 @@
-Susanna Kline's technical writing portfolio, inluding technical reference, feature overview, API documentation, and tutorial.
+Susanna Kline's resume and technical writing portfolio, inluding technical reference, feature overview, API documentation, and tutorial.
