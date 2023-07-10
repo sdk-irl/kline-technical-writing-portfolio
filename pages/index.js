@@ -17,7 +17,7 @@ export default function Home() {
         <div className={styles.grid}>
           <a href="/kline-technical-writing-portfolio.pdf" className={styles.card}>
             <h3>Portfolio &rarr;</h3>
-            <p>Reference, feature overview, API integration, tutorial</p>
+            <p>Technical reference, feature overview, API integration, tutorial</p>
           </a>
           <a href="/susannakline-resume-071023.pdf" className={styles.card}>
             <h3>Resume &rarr;</h3>
