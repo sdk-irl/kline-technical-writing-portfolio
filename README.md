@@ -1,1 +1,1 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+Susanna Kline's technical writing portfolio, inluding technical reference, feature overview, API documentation, and tutorial.
